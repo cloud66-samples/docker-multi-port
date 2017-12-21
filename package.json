@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "express": "^4.16.2"
+    },
+    "name": "multi_port_thing",
+    "version": "1.0.0",
+    "main": "main.js",
+    "license": "MIT",
+    "scripts": {
+        "server": "node main"
+    }
+}
